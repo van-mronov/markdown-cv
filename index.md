@@ -3,12 +3,10 @@ layout: cv
 title: Ivan Mironov's CV
 ---
 # Ivan Mironov
-Data Engineer.
+Data Engineer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Technical Skills
+python, C/C++, elixir, DWH, data pipelines, data analytics, dbt, kafka, docker, k8s, GCP
 
 
 ## Currently
