@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ivan Mironov's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ivan Mironov
+Data Engineer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -27,18 +27,10 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2002-2007`
+__Saint Petersburg State University, Saint Petersburg, Russia__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Master’s Degree in Applied Mathematics and Computer Science
 
 
 
