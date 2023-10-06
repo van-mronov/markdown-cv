@@ -5,39 +5,32 @@ title: Ivan Mironov's CV
 # Ivan Mironov
 Data Engineer
 
+Berlin, Germany – +49 151 1072 8639 – ivan.mironov@gmail.com
+linkedin.com/in/van-mronov/
+
+
 ## Technical Skills
-python, C/C++, elixir, DWH, data pipelines, data analytics, dbt, kafka, docker, k8s, GCP
+python, C/C++, elixir, DWH, data pipelines, data analytics, dbt, kafka, docker, k8s, bigquery, postgres
 
 
-## Currently
+## Professional Experience
 
-Standing on the shoulders of giants
+__retailmediatools GmbH | Sr. Data Engineer__ ⎯ `Berlin, Germany, 2021 - now`
+- Spearheaded the development of a data warehouse using a combination of DBT (Data Build Tool) and Google BigQuery, streamlining data processes, enhancing analytics capabilities, and promoting data-informed decision-making across the organization.
+- Employed Kimball's Dimensional Modeling Approach for the design of the data architecture, Slow-Changing Dimension (SCD) techniques to manage and track historical changes within the data warehouse. This approach allowed for efficient data retrieval and scalable design. System performance was not compromised while managing complex analytical queries.
 
-### Specialized in
+__Karuna (ex-Binomo) | Tech Lead__ ⎯ `Saint Petersburg, Russia, 2021-2021`
+- Leading a team of six engineers, mentoring and training new staff, preparing daily workloads, and coordinating the allocation of work.
+- Implementing devops best practices to improve monitoring and observability.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`2002-2007`
-__Saint Petersburg State University, Saint Petersburg, Russia__
+
+__Saint Petersburg State University__, `Saint Petersburg, Russia, 2002-2007`
 
 - Master’s Degree in Applied Mathematics and Computer Science
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
